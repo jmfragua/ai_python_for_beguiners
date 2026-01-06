@@ -12,6 +12,8 @@ openai_api_key = os.getenv('OPENAI_API_KEY')
 # Set up the OpenAI client
 client = OpenAI(api_key=openai_api_key)
 
+# Editar para probar
+
 def read_csv_dict(csv_file_path):
     """This function takes a csv file and loads it as a dict."""
 
