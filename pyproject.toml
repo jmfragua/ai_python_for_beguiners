@@ -1,0 +1,17 @@
+[project]
+name = "ai-python-for-beguiners"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.0",
+    "openai>=2.14.0",
+    "pandas>=2.3.3",
+    "seaborn>=0.13.2",
+]
